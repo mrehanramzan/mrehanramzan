@@ -1,7 +1,7 @@
 ## Hello, I'm Rehan Ramzan 👋
 Welcome to my GitHub profile!
 ## 🚀 About Me
-- 👨‍💻 I am a full stack developer too.
+- 👨‍💻 I am a MERN stack web developer.
 - 💼 I has worked as a Front-end developer in Flower Station.
 - 🎓 I'm currently studying at National University of Science and Technology.
 ## 🔧 Technologies & Tools
